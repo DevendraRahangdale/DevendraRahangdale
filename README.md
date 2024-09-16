@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/DevendraRahangdale/DevendraRahangdale/blob/main/Screenshot%202024-09-16%20182234.png)
 <h1 align="center">Hi 👋, I'm Devendra Rahangdale</h1>
 <h3 align="center">MERN Stack Developer| Data Structure & Algorithm Enthusiast</h3>
 
